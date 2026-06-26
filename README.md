@@ -1,5 +1,13 @@
 # Excel Sales Dashboard
 
+
+### Table of contents
+- [project overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommmendation](#recommendation)
+  
+  
+
 ### Project Overview
  This project is an interactive sales dashboard built in Microsoft Excel to analyze sales performance across different products, countries, 
 and time periods. The dashboard transforms raw sales data into meaningful insights using Pivot Tables, Pivot Charts, Slicers, and KPI cards.
@@ -64,10 +72,34 @@ The interactive sales dashboard provided valuable insights into sales performanc
 * Product analysis identified top-performing products based on revenue and quantity sold.
 * Interactive slicers enabled users to dynamically filter data by date, country, and product, making it easier to explore specific business scenarios.
 The dashboard transformed raw sales data into clear, interactive visualizations that support:
-* Performance monitoring and reporting
 * Product and market performance evaluation
 * Trend analysis and decision-making
 * Faster access to key business metrics through interactive filtering and KPIs
+
+
+  ### Recommendation
+
   
+Based on the analysis and insights generated from the interactive sales dashboard, the following recommendations are suggested:
+
+1. Focus on top-performing products by maintaining adequate inventory levels and implementing targeted marketing strategies.
+2. Investigate low-performing products and countries to identify factors affecting sales performance and develop improvement plans.
+3. Monitor monthly sales trends to identify seasonal patterns and prepare for periods of high and low demand.
+4. Use interactive dashboard filters regularly to analyze sales performance across different products, countries, and time periods.
+5. Continuously update the dashboard with new sales data to support real-time monitoring and decision-making.
+
+   ###Limitations
+   Dataset Scope: The analysis was conducted using a sample sales dataset, which may not fully represent the complexity and scale of real-world business operations.
+-  Data Quality Dependence: Dashboard insights are highly dependent on the accuracy and completeness of the source data. Any missing, inconsistent, or erroneous records may affect the reliability of the results.
+- Manual Data Refresh: The dashboard requires manual data updates and pivot table refreshes, limiting its ability to provide real-time reporting and automated data synchronization.
+-  Excel Scalability Constraints: While Excel is effective for small- to medium-sized datasets, performance may decline when handling large volumes of data or complex calculations.
+-  Limited Advanced Analytics: The dashboard focuses on descriptive analytics and KPI monitoring. Predictive analytics, forecasting, and machine learning capabilities were not implemented.
+-  Tool Limitations: Compared to business intelligence platforms such as Power BI and Tableau, Excel offers fewer 
+  ### References
+
+1.  Microsoft Corporation. (2024). Microsoft Excel Documentation. Used for data cleaning, Pivot Tables, Pivot Charts, slicers, and dashboard development.
+2. Kaggle. (2024). Sample Sales Dataset. Used as the primary data source for building and testing the interactive sales dashboard.
+3. Microsoft Support. (2024). Create a PivotTable and PivotChart in Excel. Referenced for creating data summaries and interactive visualizations.
+
 
   
