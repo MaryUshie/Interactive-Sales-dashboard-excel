@@ -12,6 +12,8 @@
  This project is an interactive sales dashboard built in Microsoft Excel to analyze sales performance across different products, countries, 
 and time periods. The dashboard transforms raw sales data into meaningful insights using Pivot Tables, Pivot Charts, Slicers, and KPI cards.
 
+
+
 ### Data Sources
 Kaggle Sample Sales Dataset (used for educational and portfolio purposes).
 
@@ -94,7 +96,8 @@ Based on the analysis and insights generated from the interactive sales dashboar
 - Manual Data Refresh: The dashboard requires manual data updates and pivot table refreshes, limiting its ability to provide real-time reporting and automated data synchronization.
 -  Excel Scalability Constraints: While Excel is effective for small- to medium-sized datasets, performance may decline when handling large volumes of data or complex calculations.
 -  Limited Advanced Analytics: The dashboard focuses on descriptive analytics and KPI monitoring. Predictive analytics, forecasting, and machine learning capabilities were not implemented.
--  Tool Limitations: Compared to business intelligence platforms such as Power BI and Tableau, Excel offers fewer 
+-  Tool Limitations: Compared to business intelligence platforms such as Power BI and Tableau, Excel offers fewer
+-  
   ### References
 
 1.  Microsoft Corporation. (2024). Microsoft Excel Documentation. Used for data cleaning, Pivot Tables, Pivot Charts, slicers, and dashboard development.
