@@ -12,6 +12,12 @@
  This project is an interactive sales dashboard built in Microsoft Excel to analyze sales performance across different products, countries, 
 and time periods. The dashboard transforms raw sales data into meaningful insights using Pivot Tables, Pivot Charts, Slicers, and KPI cards.
 
+![Dashboard](bar plot,PNG)<img width="1296" height="538" alt="screenshortdash" src="https://github.com/user-attachments/assets/d1e46dcb-32fc-4459-a062-16d7e8318478" />
+
+
+![Uploading bar plot.PNG]()
+
+
 
 
 ### Data Sources
