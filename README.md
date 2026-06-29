@@ -104,5 +104,6 @@ Based on the analysis and insights generated from the interactive sales dashboar
 2. Kaggle. (2024). Sample Sales Dataset. Used as the primary data source for building and testing the interactive sales dashboard.
 3. Microsoft Support. (2024). Create a PivotTable and PivotChart in Excel. Referenced for creating data summaries and interactive visualizations.
 
+updated README and added project documentation
 
   
